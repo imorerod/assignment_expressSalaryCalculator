@@ -1,0 +1,29 @@
+body {
+    background-color: #28965A;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #6BFFB8;
+}
+
+h1 {
+    background-color: #2A6041;
+    color: #7CFEF0;
+    text-align: center;
+    padding: 20px;
+    margin: 20px 20px 60px 20px;
+}
+
+footer {
+    color: #2CEAA3;
+}
+
+#submitButton {
+    border: solid 2px #2A6041;
+}
+.red {
+    color: red;
+}
+
+.sideBySide {
+    display: inline-block;
+    margin-right: 10px;
+}
